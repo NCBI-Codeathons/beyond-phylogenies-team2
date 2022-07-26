@@ -2,7 +2,7 @@
 
 List of participants and affiliations:
 - Sidney Bell, Affiliation (Team Leader)
-- Karthik Ramesh, Affiliation
+- Karthik Ramesh, Andersen Lab @ Scripps Research
 - Hua Chen, Affiliation
 - Kristine Lacek, CDC
 - Rong Jin, CDC
