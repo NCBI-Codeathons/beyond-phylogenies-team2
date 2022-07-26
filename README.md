@@ -6,7 +6,7 @@ List of participants and affiliations:
 - Hua Chen, Affiliation
 - Kristine Lacek, CDC
 - Rong Jin, CDC
-- Xueting, Affiliation
+- Xueting Qiu, CCDD, Harvard T.H. Chan
 
 ## Project Goals
 
