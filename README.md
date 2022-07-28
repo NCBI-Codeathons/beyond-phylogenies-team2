@@ -30,6 +30,8 @@ We aim to inform resource allocation from local health deprtments that may be as
 
 ## Approach
 
+### Data 
+
 Using San Diego as a model locality, we extracted epidemiological and genomic data from public repositories to build our pipeline.
 
 Genomic data was ingested from GISAID (source) and annotated with Pangolin Lineage calls (source, version) and NextClade Clade designations (source, version)
@@ -40,6 +42,10 @@ We created mock data using <software> with the following fields:
 - field
 - field
 - field
+
+From census data <source> we extracted median household income for locality zipcodes.
+
+
 
 <sample table?>
 
