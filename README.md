@@ -42,6 +42,23 @@ We created mock data modeled off of [facility testing data](https://github.com/N
 
 From census data <source> we extracted median household income for locality zipcodes.
 
+**Discussion Point #1** - Consolidation of genomic data:
+
+_Problem_: Not all samples had zip-codes, there are too many to manage for all years, and some were not uploaded to GISAID.
+
+_Action_: We consolidated the genomic data to include ~12.5k clinical samples (as opposed to environmental) which are 1) from 2022, 2) from San Diego, and 3) have both a zipcode and GISAID ID. We then got and extracted the lineage calls for these samples.
+
+_Result_: We now have a final version of the “variants over time” data for San Diego, attached here as 2022_sd_genomic_metadata.csv
+
+
+**Discussion Point #2** - Simulated Data on Testing Volume and Positivity
+
+_Problem_: The connection between the simulated data and genomic data is unclear
+
+_Action_: We reiterated that there is no ID which can be used to connect lines of genomic and testing data. Instead, we confirmed that we will bin the data by week
+instead, based on the dual assumptions that 1) those samples sequenced are a random subset of all positive tests and 2) county-wide statistics on new positives, hospitalizations, and deaths reflect proportionally those of any given facility. 
+
+_Result_: We have 2 additional files and a reworked simulated dataset on individual tests just for 2022, which together give us a view of 1) true testing numbers and downstream hospitalizations / deaths in San Diego, 2) simulated individual test results at the health system level linked to generated patient categorical factors. 
 
 ### Figure generation
 
