@@ -1,321 +1,321 @@
 community,nextclade_pango,week,cases
-San Diego,BA.2,1,3
-Santee,BA.2,1,1
-San Diego,BA.2,3,2
-San Diego,BA.2,4,1
-San Diego,BA.2,6,3
-San Diego,BA.2,7,4
-Chula Vista,BA.2,8,1
-El Cajon,BA.2,8,1
-La Mesa,BA.2,8,1
-San Diego,BA.2,8,1
-Santee,BA.2,8,1
-Carlsbad,BA.2,9,1
-Chula Vista,BA.2,9,1
-El Cajon,BA.2,9,1
-Encinitas,BA.2,9,1
-La Mesa,BA.2,9,1
-San Diego,BA.2,9,4
-San Ysidro,BA.2,9,1
-Spring Valley,BA.2,9,1
-Vista,BA.2,9,1
-Escondido,BA.2,10,1
-Imperial Beach,BA.2,10,1
-Poway,BA.2,10,1
-San Diego,BA.2,10,6
-Spring Valley,BA.2,10,1
-Chula Vista,BA.2,11,2
-Encinitas,BA.2,11,1
-Escondido,BA.2,11,2
-La Jolla,BA.2,11,2
-Lemon Grove,BA.2,11,1
-Oceanside,BA.2,11,1
-Ramona,BA.2,11,1
-San Diego,BA.2,11,11
-San Diego,BA.2.12.1,11,1
-San Ysidro,BA.2,11,1
-Chula Vista,BA.2,12,1
-La Mesa,BA.2.12.1,12,1
-San Diego,BA.2,12,13
-Santee,BA.2,12,1
-Spring Valley,BA.2,12,2
-Chula Vista,BA.2,13,2
-El Cajon,BA.2,13,2
-La Jolla,BA.2,13,1
-La Mesa,BA.2,13,1
-Lemon Grove,BA.2,13,1
-San Diego,BA.2,13,18
-San Diego,BA.2.12.1,13,4
-Santee,BA.2,13,2
-Chula Vista,BA.2,14,2
-El Cajon,BA.2,14,2
-Escondido,BA.2,14,1
-Imperial Beach,BA.2,14,1
-San Diego,BA.2,14,9
-San Diego,BA.2.12.1,14,1
-National City,BA.2,15,2
+Alpine,BA.2.12.1,19,1
+Alpine,BA.2.12.1,20,1
+Alpine,BA.2.12.1,22,1
+Alpine,BA.2.12.1,23,2
+Alpine,BA.5,23,1
+Alpine,BA.2.12.1,24,2
+Alpine,BA.4,24,1
+Bonita,BA.2.12.1,19,1
+Bonita,BA.2.12.1,20,2
+Bonita,BA.5,23,1
+Bonita,BA.2.12.1,24,1
+Boulevard,BA.2.12.1,21,1
 Campo,BA.2,17,1
-Chula Vista,BA.2,17,2
-Chula Vista,BA.4,17,1
-El Cajon,BA.2,17,4
-El Cajon,BA.2.12.1,17,1
-Escondido,BA.2,17,1
-Imperial Beach,BA.2.12.1,17,1
-La Mesa,BA.2.12.1,17,2
-Lakeside,BA.2.12.1,17,1
-Lemon Grove,BA.2.12.1,17,1
-National City,BA.2,17,1
-San Diego,BA.2,17,5
-San Diego,BA.2.12.1,17,6
-Santee,BA.2,17,1
-Santee,BA.2.12.1,17,1
 Campo,BA.2,18,1
 Campo,BA.2.12.1,18,1
+Campo,BA.2.12.1,21,1
 Cardiff by the Sea,BA.2.12.1,18,1
+Carlsbad,BA.2,9,1
+Carlsbad,BA.2,20,1
+Chula Vista,BA.2,8,1
+Chula Vista,BA.2,9,1
+Chula Vista,BA.2,11,2
+Chula Vista,BA.2,12,1
+Chula Vista,BA.2,13,2
+Chula Vista,BA.2,14,2
+Chula Vista,BA.2,17,2
+Chula Vista,BA.4,17,1
 Chula Vista,BA.2,18,8
 Chula Vista,BA.2.12.1,18,6
-Coronado,BA.2,18,1
-Coronado,BA.2.12.1,18,2
-El Cajon,BA.2,18,2
-El Cajon,BA.2.12.1,18,4
-El Cajon,BA.5,18,1
-Encinitas,BA.2.12.1,18,2
-Escondido,BA.2,18,1
-Escondido,BA.2.12.1,18,1
-Imperial Beach,BA.2,18,1
-Imperial Beach,BA.2.12.1,18,1
-Jamul,BA.2,18,1
-Jamul,BA.2.12.1,18,1
-La Mesa,BA.2,18,6
-La Mesa,BA.2.12.1,18,4
-La Mesa,BA.4,18,1
-Lakeside,BA.2,18,1
-Lemon Grove,BA.5,18,1
-National City,BA.2,18,1
-National City,BA.2.12.1,18,4
-Poway,BA.2.12.1,18,1
-Ramona,BA.2.12.1,18,1
-Rancho Santa Fe,BA.2.12.1,18,1
-San Diego,BA.2,18,31
-San Diego,BA.2.12.1,18,21
-Santee,BA.2,18,1
-Santee,BA.2.12.1,18,4
-Spring Valley,BA.2,18,3
-Spring Valley,BA.2.12.1,18,1
-Alpine,BA.2.12.1,19,1
-Bonita,BA.2.12.1,19,1
 Chula Vista,BA.2,19,7
 Chula Vista,BA.2.12.1,19,16
 Chula Vista,BA.4,19,2
 Chula Vista,BA.5,19,1
-Coronado,BA.2,19,2
-Coronado,BA.2.12.1,19,2
-El Cajon,BA.2,19,8
-El Cajon,BA.2.12.1,19,8
-El Cajon,BA.4,19,1
-El Cajon,BA.5,19,1
-Encinitas,BA.2.12.1,19,1
-Escondido,BA.2,19,1
-Escondido,BA.2.12.1,19,1
-Imperial Beach,BA.2,19,1
-La Jolla,BA.2,19,1
-La Jolla,BA.2.12.1,19,2
-La Mesa,BA.2,19,2
-La Mesa,BA.2.12.1,19,3
-Lakeside,BA.2.12.1,19,1
-National City,BA.2,19,2
-National City,BA.2.12.1,19,1
-Oceanside,BA.2,19,1
-Poway,BA.2,19,1
-Poway,BA.2.12.1,19,1
-Ramona,BA.2.12.1,19,1
-San Diego,BA.2,19,42
-San Diego,BA.2.12.1,19,33
-San Diego,BA.4,19,4
-San Diego,BA.5,19,2
-San Marcos,BA.2.12.1,19,1
-San Ysidro,BA.2,19,1
-Santa Ysabel,BA.2.12.1,19,1
-Santee,BA.2,19,3
-Santee,BA.4,19,1
-Spring Valley,BA.2,19,3
-Spring Valley,BA.2.12.1,19,2
-Vista,BA.2.12.1,19,1
-Alpine,BA.2.12.1,20,1
-Bonita,BA.2.12.1,20,2
-Carlsbad,BA.2,20,1
 Chula Vista,BA.2,20,3
 Chula Vista,BA.2.12.1,20,9
-Coronado,BA.2,20,1
-Coronado,BA.2.12.1,20,2
-El Cajon,BA.2,20,3
-El Cajon,BA.2.12.1,20,9
-El Cajon,BA.5,20,1
-Encinitas,BA.2,20,2
-Escondido,BA.2,20,1
-Escondido,BA.2.12.1,20,4
-Jamul,BA.2.12.1,20,1
-La Jolla,BA.2,20,1
-La Jolla,BA.2.12.1,20,1
-La Mesa,BA.2,20,1
-La Mesa,BA.2.12.1,20,4
-Lakeside,BA.2,20,1
-Lakeside,BA.2.12.1,20,3
-Lemon Grove,BA.2.12.1,20,1
-National City,BA.2,20,1
-National City,BA.2.12.1,20,3
-Oceanside,BA.2,20,1
-Oceanside,BA.2.12.1,20,1
-Poway,BA.2,20,1
-Poway,BA.2.12.1,20,1
-Ramona,BA.2,20,1
-San Diego,BA.2,20,15
-San Diego,BA.2.12.1,20,41
-San Marcos,BA.2.12.1,20,1
-San Ysidro,BA.2.12.1,20,2
-Santee,BA.2,20,1
-Santee,BA.2.12.1,20,7
-Spring Valley,BA.2.12.1,20,1
-Valley Center,BA.2.12.1,20,2
-Vista,BA.2.12.1,20,1
-Boulevard,BA.2.12.1,21,1
-Campo,BA.2.12.1,21,1
 Chula Vista,BA.2,21,1
 Chula Vista,BA.2.12.1,21,6
-El Cajon,BA.2,21,1
-El Cajon,BA.2.12.1,21,3
-Encinitas,BA.2.12.1,21,2
-Escondido,BA.2.12.1,21,2
-La Jolla,BA.2.12.1,21,1
-Lakeside,BA.5,21,1
-Lemon Grove,BA.2.12.1,21,1
-National City,BA.2,21,1
-Poway,BA.2.12.1,21,1
-Ramona,BA.2.12.1,21,3
-San Diego,BA.2,21,4
-San Diego,BA.2.12.1,21,21
-San Diego,BA.4,21,1
-San Diego,BA.5,21,2
-San Marcos,BA.2,21,1
-San Ysidro,BA.2.12.1,21,2
-Santee,BA.2,21,1
-Santee,BA.2.12.1,21,2
-Spring Valley,BA.2,21,1
-Spring Valley,BA.2.12.1,21,2
-Valley Center,BA.5,21,1
-Vista,BA.2,21,1
-Vista,BA.2.12.1,21,1
-Alpine,BA.2.12.1,22,1
 Chula Vista,BA.2,22,1
 Chula Vista,BA.4,22,1
-El Cajon,BA.2,22,1
-Oceanside,BA.2.12.1,22,1
-San Diego,BA.2.12.1,22,7
-San Diego,BA.4,22,1
-San Ysidro,BA.2.12.1,22,1
-Santee,BA.2.12.1,22,1
-Valley Center,BA.2.12.1,22,2
-Alpine,BA.2.12.1,23,2
-Alpine,BA.5,23,1
-Bonita,BA.5,23,1
 Chula Vista,BA.2,23,3
 Chula Vista,BA.2.12.1,23,10
 Chula Vista,BA.4,23,5
 Chula Vista,BA.5,23,1
+Chula Vista,BA.2.12.1,24,8
+Chula Vista,BA.4,24,2
+Chula Vista,BA.5,24,6
+Chula Vista,BA.2.12.1,25,6
+Chula Vista,BA.4,25,5
+Chula Vista,BA.5,25,1
+Coronado,BA.2,18,1
+Coronado,BA.2.12.1,18,2
+Coronado,BA.2,19,2
+Coronado,BA.2.12.1,19,2
+Coronado,BA.2,20,1
+Coronado,BA.2.12.1,20,2
 Coronado,BA.2.12.1,23,2
+Coronado,BA.2.12.1,24,1
 Dulzura,BA.5,23,1
+El Cajon,BA.2,8,1
+El Cajon,BA.2,9,1
+El Cajon,BA.2,13,2
+El Cajon,BA.2,14,2
+El Cajon,BA.2,17,4
+El Cajon,BA.2.12.1,17,1
+El Cajon,BA.2,18,2
+El Cajon,BA.2.12.1,18,4
+El Cajon,BA.5,18,1
+El Cajon,BA.2,19,8
+El Cajon,BA.2.12.1,19,8
+El Cajon,BA.4,19,1
+El Cajon,BA.5,19,1
+El Cajon,BA.2,20,3
+El Cajon,BA.2.12.1,20,9
+El Cajon,BA.5,20,1
+El Cajon,BA.2,21,1
+El Cajon,BA.2.12.1,21,3
+El Cajon,BA.2,22,1
 El Cajon,BA.2,23,3
 El Cajon,BA.2.12.1,23,4
 El Cajon,BA.5,23,4
+El Cajon,BA.2,24,1
+El Cajon,BA.2.12.1,24,4
+El Cajon,BA.5,24,4
+El Cajon,BA.2.12.1,25,5
+El Cajon,BA.4,25,3
+El Cajon,BA.5,25,2
+Encinitas,BA.2,9,1
+Encinitas,BA.2,11,1
+Encinitas,BA.2.12.1,18,2
+Encinitas,BA.2.12.1,19,1
+Encinitas,BA.2,20,2
+Encinitas,BA.2.12.1,21,2
+Escondido,BA.2,10,1
+Escondido,BA.2,11,2
+Escondido,BA.2,14,1
+Escondido,BA.2,17,1
+Escondido,BA.2,18,1
+Escondido,BA.2.12.1,18,1
+Escondido,BA.2,19,1
+Escondido,BA.2.12.1,19,1
+Escondido,BA.2,20,1
+Escondido,BA.2.12.1,20,4
+Escondido,BA.2.12.1,21,2
 Escondido,BA.2,23,1
 Escondido,BA.2.12.1,23,2
 Escondido,BA.4,23,2
 Escondido,BA.5,23,1
+Escondido,BA.2.12.1,24,1
+Escondido,BA.4,24,1
+Escondido,BA.2,25,1
+Fallbrook,BA.2.12.1,24,1
+Imperial Beach,BA.2,10,1
+Imperial Beach,BA.2,14,1
+Imperial Beach,BA.2.12.1,17,1
+Imperial Beach,BA.2,18,1
+Imperial Beach,BA.2.12.1,18,1
+Imperial Beach,BA.2,19,1
 Imperial Beach,BA.2.12.1,23,1
 Imperial Beach,BA.4,23,1
 Imperial Beach,BA.5,23,1
+Imperial Beach,BA.2.12.1,24,1
+Imperial Beach,BA.4,25,1
 Jacumba,BA.2.12.1,23,1
+Jamul,BA.2,18,1
+Jamul,BA.2.12.1,18,1
+Jamul,BA.2.12.1,20,1
+La Jolla,BA.2,11,2
+La Jolla,BA.2,13,1
+La Jolla,BA.2,19,1
+La Jolla,BA.2.12.1,19,2
+La Jolla,BA.2,20,1
+La Jolla,BA.2.12.1,20,1
+La Jolla,BA.2.12.1,21,1
+La Mesa,BA.2,8,1
+La Mesa,BA.2,9,1
+La Mesa,BA.2.12.1,12,1
+La Mesa,BA.2,13,1
+La Mesa,BA.2.12.1,17,2
+La Mesa,BA.2,18,6
+La Mesa,BA.2.12.1,18,4
+La Mesa,BA.4,18,1
+La Mesa,BA.2,19,2
+La Mesa,BA.2.12.1,19,3
+La Mesa,BA.2,20,1
+La Mesa,BA.2.12.1,20,4
 La Mesa,BA.2.12.1,23,3
 La Mesa,BA.5,23,2
+La Mesa,BA.2.12.1,24,3
+La Mesa,BA.2,25,1
+La Mesa,BA.4,25,1
+La Mesa,BA.5,25,3
+Lakeside,BA.2.12.1,17,1
+Lakeside,BA.2,18,1
+Lakeside,BA.2.12.1,19,1
+Lakeside,BA.2,20,1
+Lakeside,BA.2.12.1,20,3
+Lakeside,BA.5,21,1
 Lakeside,BA.2.12.1,23,3
 Lakeside,BA.4,23,1
 Lakeside,BA.5,23,1
+Lakeside,BA.2.12.1,24,3
+Lakeside,BA.5,24,2
+Lakeside,BA.2.12.1,25,1
+Lemon Grove,BA.2,11,1
+Lemon Grove,BA.2,13,1
+Lemon Grove,BA.2.12.1,17,1
+Lemon Grove,BA.5,18,1
+Lemon Grove,BA.2.12.1,20,1
+Lemon Grove,BA.2.12.1,21,1
 Lemon Grove,BA.2.12.1,23,2
 Lemon Grove,BA.5,23,1
+Lemon Grove,BA.2.12.1,24,1
+Lemon Grove,BA.5,25,1
+National City,BA.2,15,2
+National City,BA.2,17,1
+National City,BA.2,18,1
+National City,BA.2.12.1,18,4
+National City,BA.2,19,2
+National City,BA.2.12.1,19,1
+National City,BA.2,20,1
+National City,BA.2.12.1,20,3
+National City,BA.2,21,1
 National City,BA.4,23,1
 National City,BA.5,23,3
+National City,BA.4,24,1
+Oceanside,BA.2,11,1
+Oceanside,BA.2,19,1
+Oceanside,BA.2,20,1
+Oceanside,BA.2.12.1,20,1
+Oceanside,BA.2.12.1,22,1
+Pala,BA.2.12.1,24,1
 Palomar Mountain,BA.2.12.1,23,1
 Pauma Valley,BA.2.12.1,23,1
+Poway,BA.2,10,1
+Poway,BA.2.12.1,18,1
+Poway,BA.2,19,1
+Poway,BA.2.12.1,19,1
+Poway,BA.2,20,1
+Poway,BA.2.12.1,20,1
+Poway,BA.2.12.1,21,1
 Poway,BA.2,23,1
 Poway,BA.2.12.1,23,1
 Poway,BA.4,23,1
+Poway,BA.2.12.1,24,3
+Ramona,BA.2,11,1
+Ramona,BA.2.12.1,18,1
+Ramona,BA.2.12.1,19,1
+Ramona,BA.2,20,1
+Ramona,BA.2.12.1,21,3
 Ramona,BA.5,23,1
+Ramona,BA.5,24,1
+Rancho Santa Fe,BA.2.12.1,18,1
 Rancho Santa Fe,BA.2.12.1,23,1
+Rancho Santa Fe,BA.4,25,1
+San Diego,BA.2,1,3
+San Diego,BA.2,3,2
+San Diego,BA.2,4,1
+San Diego,BA.2,6,3
+San Diego,BA.2,7,4
+San Diego,BA.2,8,1
+San Diego,BA.2,9,4
+San Diego,BA.2,10,6
+San Diego,BA.2,11,11
+San Diego,BA.2.12.1,11,1
+San Diego,BA.2,12,13
+San Diego,BA.2,13,18
+San Diego,BA.2.12.1,13,4
+San Diego,BA.2,14,9
+San Diego,BA.2.12.1,14,1
+San Diego,BA.2,17,5
+San Diego,BA.2.12.1,17,6
+San Diego,BA.2,18,31
+San Diego,BA.2.12.1,18,21
+San Diego,BA.2,19,42
+San Diego,BA.2.12.1,19,33
+San Diego,BA.4,19,4
+San Diego,BA.5,19,2
+San Diego,BA.2,20,15
+San Diego,BA.2.12.1,20,41
+San Diego,BA.2,21,4
+San Diego,BA.2.12.1,21,21
+San Diego,BA.4,21,1
+San Diego,BA.5,21,2
+San Diego,BA.2.12.1,22,7
+San Diego,BA.4,22,1
 San Diego,BA.2,23,11
 San Diego,BA.2.12.1,23,27
 San Diego,BA.4,23,5
 San Diego,BA.5,23,16
-San Marcos,BA.5,23,1
-San Ysidro,BA.4,23,1
-Santa Ysabel,BA.2.12.1,23,1
-Santee,BA.2.12.1,23,3
-Spring Valley,BA.2.12.1,23,5
-Spring Valley,BA.5,23,1
-Valley Center,BA.2.12.1,23,2
-Alpine,BA.2.12.1,24,2
-Alpine,BA.4,24,1
-Bonita,BA.2.12.1,24,1
-Chula Vista,BA.2.12.1,24,8
-Chula Vista,BA.4,24,2
-Chula Vista,BA.5,24,6
-Coronado,BA.2.12.1,24,1
-El Cajon,BA.2,24,1
-El Cajon,BA.2.12.1,24,4
-El Cajon,BA.5,24,4
-Escondido,BA.2.12.1,24,1
-Escondido,BA.4,24,1
-Fallbrook,BA.2.12.1,24,1
-Imperial Beach,BA.2.12.1,24,1
-La Mesa,BA.2.12.1,24,3
-Lakeside,BA.2.12.1,24,3
-Lakeside,BA.5,24,2
-Lemon Grove,BA.2.12.1,24,1
-National City,BA.4,24,1
-Pala,BA.2.12.1,24,1
-Poway,BA.2.12.1,24,3
-Ramona,BA.5,24,1
 San Diego,BA.2,24,2
 San Diego,BA.2.12.1,24,35
 San Diego,BA.4,24,7
 San Diego,BA.5,24,15
-San Marcos,BA.2.12.1,24,1
-San Ysidro,BA.5,24,1
-Santee,BA.2,24,2
-Santee,BA.2.12.1,24,2
-Santee,BA.5,24,1
-Spring Valley,BA.2.12.1,24,6
-Spring Valley,BA.4,24,1
-Spring Valley,BA.5,24,1
-Warner Springs,BA.5,24,1
-Chula Vista,BA.2.12.1,25,6
-Chula Vista,BA.4,25,5
-Chula Vista,BA.5,25,1
-El Cajon,BA.2.12.1,25,5
-El Cajon,BA.4,25,3
-El Cajon,BA.5,25,2
-Escondido,BA.2,25,1
-Imperial Beach,BA.4,25,1
-La Mesa,BA.2,25,1
-La Mesa,BA.4,25,1
-La Mesa,BA.5,25,3
-Lakeside,BA.2.12.1,25,1
-Lemon Grove,BA.5,25,1
-Rancho Santa Fe,BA.4,25,1
 San Diego,BA.2,25,1
 San Diego,BA.2.12.1,25,7
 San Diego,BA.4,25,3
 San Diego,BA.5,25,13
+San Marcos,BA.2.12.1,19,1
+San Marcos,BA.2.12.1,20,1
+San Marcos,BA.2,21,1
+San Marcos,BA.5,23,1
+San Marcos,BA.2.12.1,24,1
+San Ysidro,BA.2,9,1
+San Ysidro,BA.2,11,1
+San Ysidro,BA.2,19,1
+San Ysidro,BA.2.12.1,20,2
+San Ysidro,BA.2.12.1,21,2
+San Ysidro,BA.2.12.1,22,1
+San Ysidro,BA.4,23,1
+San Ysidro,BA.5,24,1
+Santa Ysabel,BA.2.12.1,19,1
+Santa Ysabel,BA.2.12.1,23,1
+Santee,BA.2,1,1
+Santee,BA.2,8,1
+Santee,BA.2,12,1
+Santee,BA.2,13,2
+Santee,BA.2,17,1
+Santee,BA.2.12.1,17,1
+Santee,BA.2,18,1
+Santee,BA.2.12.1,18,4
+Santee,BA.2,19,3
+Santee,BA.4,19,1
+Santee,BA.2,20,1
+Santee,BA.2.12.1,20,7
+Santee,BA.2,21,1
+Santee,BA.2.12.1,21,2
+Santee,BA.2.12.1,22,1
+Santee,BA.2.12.1,23,3
+Santee,BA.2,24,2
+Santee,BA.2.12.1,24,2
+Santee,BA.5,24,1
 Santee,BA.4,25,2
 Santee,BA.5,25,1
+Spring Valley,BA.2,9,1
+Spring Valley,BA.2,10,1
+Spring Valley,BA.2,12,2
+Spring Valley,BA.2,18,3
+Spring Valley,BA.2.12.1,18,1
+Spring Valley,BA.2,19,3
+Spring Valley,BA.2.12.1,19,2
+Spring Valley,BA.2.12.1,20,1
+Spring Valley,BA.2,21,1
+Spring Valley,BA.2.12.1,21,2
+Spring Valley,BA.2.12.1,23,5
+Spring Valley,BA.5,23,1
+Spring Valley,BA.2.12.1,24,6
+Spring Valley,BA.4,24,1
+Spring Valley,BA.5,24,1
 Spring Valley,BA.4,25,1
 Spring Valley,BA.5,25,2
+Valley Center,BA.2.12.1,20,2
+Valley Center,BA.5,21,1
+Valley Center,BA.2.12.1,22,2
+Valley Center,BA.2.12.1,23,2
+Vista,BA.2,9,1
+Vista,BA.2.12.1,19,1
+Vista,BA.2.12.1,20,1
+Vista,BA.2,21,1
+Vista,BA.2.12.1,21,1
+Warner Springs,BA.5,24,1
