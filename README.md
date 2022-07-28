@@ -66,6 +66,13 @@ Using Python libraries [Geopandas](https://geopandas.org/en/stable/) and and [Ma
 
 ## Results
 
-**[TEAM 2 FINAL PRESENTATION]**(https://docs.google.com/presentation/d/1_dWI3wVtJVs9vGPWpTNgMXA4xjKCuZywtjtmZebjqh8/edit?usp=sharing)
+[TEAM 2 FINAL PRESENTATION](https://docs.google.com/presentation/d/1_dWI3wVtJVs9vGPWpTNgMXA4xjKCuZywtjtmZebjqh8/edit?usp=sharing)
 
 ## Future Work
+
+- More actionable data would include phenotypic impacts of each variant (e.g., vaccine escape, treatment efficacy, severity, etc)
+A machine-readable version of the Stanford CoV DB would be very beneficial
+
+- Choropleth map: show changes over time
+
+- Stacked area plot: add visual indicator of how test volume has changed over time 
