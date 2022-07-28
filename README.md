@@ -48,7 +48,7 @@ _Problem_: Not all samples had zip-codes, there are too many to manage for all y
 
 _Action_: We consolidated the genomic data to include ~12.5k clinical samples (as opposed to environmental) which are 1) from 2022, 2) from San Diego, and 3) have both a zipcode and GISAID ID. We then got and extracted the lineage calls for these samples.
 
-_Result_: We now have a (final version)[https://github.com/NCBI-Codeathons/beyond-phylogenies-team2/blob/main/data/2022_sd_weekly_genome_counts.csv] of the “variants over time” data for San Diego
+_Result_: We now have a [final version](https://github.com/NCBI-Codeathons/beyond-phylogenies-team2/blob/main/data/2022_sd_weekly_genome_counts.csv) of the “variants over time” data for San Diego
 
 **Discussion Point #2** - Simulated Data on Testing Volume and Positivity
 
