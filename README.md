@@ -52,12 +52,12 @@ _Result_: We now have a [final version](https://github.com/NCBI-Codeathons/beyon
 
 **Discussion Point #2** - Simulated Data on Testing Volume and Positivity
 
-_Problem_: The connection between the simulated data and genomic data is unclear
+_Problem_: The connections between simulated testing data and real genomic data is unclear
 
-_Action_: We reiterated that there is no ID which can be used to connect lines of genomic and testing data. Instead, we confirmed that we will bin the data by week
+_Action_: We reiterate that there is no ID which can be used to connect lines of genomic and testing data, which is likely true in many localities depening on user access. Instead, we confirmed that we will bin the data by week
 instead, based on the dual assumptions that 1) those samples sequenced are a random subset of all positive tests and 2) county-wide statistics on new positives, hospitalizations, and deaths reflect proportionally those of any given facility. 
 
-_Result_: We have 2 additional files and a reworked simulated dataset on individual tests just for 2022, which together give us a view of 1) true testing numbers and downstream hospitalizations / deaths in San Diego, 2) simulated individual test results at the health system level linked to generated patient categorical factors. 
+_Result_: We have 2 additional files and a reworked simulated dataset on individual tests just for 2022, which together give us a view of 1) true testing numbers and downstream hospitalizations / deaths in San Diego and 2) simulated individual test results at the health system level linked to generated patient categorical factors. 
 
 ### Figure generation
 
