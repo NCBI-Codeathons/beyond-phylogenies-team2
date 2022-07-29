@@ -40,7 +40,7 @@ Case counts, testing, and death data was downloaded from the [California State P
 
 We created mock data modeled off of [facility testing data](https://github.com/NCBI-Codeathons/beyond-phylogenies-team2/blob/main/data/2022_facility_testing.csv) that to which institutions might have access.
 
-From census data <source> we extracted median household income for locality zipcodes.
+From [census data](https://data.census.gov/cedsci/table?q=median%20income&g=0400000US06%248600000) we extracted median household income for locality zipcodes.
 
 **Discussion Point #1** - Consolidation of genomic data:
 
